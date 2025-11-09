@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
+//hello my name is kabeer
 
 int sansaXor (vector<int>arr)
 {
